@@ -1,0 +1,102 @@
+.mail{
+    font-family: arial;
+      color:  rgb(96, 96, 96);
+      margin-bottom: 0px;
+      }
+ .fill{
+             width: 250px;
+             height: 25px;
+             border:solid;  
+             border-width: 2px; 
+             border-radius: 3px;
+             margin-top: 5px;
+             color:  rgb(96, 96, 96);
+            }
+.info{
+                font-family: arial;
+                 color:  rgb(96, 96, 96);
+            }
+ .confirm{
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 70px;
+                padding-right: 70px;
+                background-color: rgb(23, 79, 144);
+                color: white;
+                font-family: arial;
+                cursor: pointer;
+                border: none;
+                border-radius: 30px;
+                text-align: center;
+                font-size: 25px;
+                display: block;
+                margin-bottom: 100px;
+                
+            }
+.pic{
+            width: 150px;
+            display: inline-block;
+            vertical-align: middle;
+}
+.logo{
+         
+     display: inline-block;
+     font-family: arial;
+     font-size: 30px;
+     font-weight: bold;
+}
+.ride{
+     display: block;
+     font-family: Tahoma;
+     font-size: 35px;
+     margin-left: 20px ;
+     margin-bottom: 20px;
+}
+.pickup{
+       width: 400px;
+       display:block ;
+       font-size: 16px;
+       margin-bottom: 10px;
+       margin-left: 10px;
+       padding-left: 20px;
+       padding-right: 20px;
+       padding-top: 15px;
+       padding-bottom: 15px;
+       background-color: rgb(240, 240, 240);
+       border: none;
+      
+}
+.destination{
+    width: 400px;
+    display:block ;
+    font-size: 16px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+}
+.Request{
+       padding-left: 30px;
+       padding-right: 30px;
+       padding-top: 15px;
+       padding-bottom: 15px;
+       font-size: 18px;
+       background-color: black;
+       color: white;
+       margin-left: 20px;
+       margin-right: 30px;
+       border: none;
+}
+.Schedule{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+}
